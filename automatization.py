@@ -1,4 +1,4 @@
-# Projeito feito em Python com a biblioteca pandas. Automatização com função de leitura de uma tabela já fornecida, para o preenchimento de dados em um formulário.
+# Projeito feito em Python com a biblioteca pandas. Automatização com função de leitura de uma tabela já fornecida (disponível em produtos.csv), para o preenchimento de dados em um formulário.
 
 import pyautogui
 import time

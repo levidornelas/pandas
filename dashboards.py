@@ -1,4 +1,4 @@
-#Criação de dashboards interativos com python por meio das bibliotecas plotly e pandas. Existem inferências sobre os gráficos, interpretando as informações fornecidas pelo código. Tabela disponível em 'cancelamentos.csv'
+#Criação de dashboards interativos com python por meio das bibliotecas plotly e pandas. Existem inferências sobre os gráficos, interpretando as informações fornecidas pelo código.
 
 
 
